@@ -45,7 +45,7 @@ export default function Home() {
                         <div className={styles.left}>
                             <div className={styles.tagline}>
                                 <p>Don't bother with other chat apps.</p>
-                                <h1>Communication is critical.<br />Privacy is essential.</h1>
+                                <h1>The Landing page is critical.<br />Privacy is essential.</h1>
                                 <JoinLinks />
                             </div>
                         </div>
